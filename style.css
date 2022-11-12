@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+   background-color:midnightblue;
+   color:white;
+   
+}
+header{
+    text-align: center;
+    background-color: skyblue;
+}
+body h1{
+    text-align: center;
+    background-color: skyblue;
+    color: midnightblue;
+
+}
+footer{
+    background-color: skyblue ;
+    border: 5px solid skyblue;
+    text-align: center;
+}
+footer p {
+    background-color:  white;
+}
+
+nav a{
+    border:1px solid black;
+    text-decoration: none;
+    background-color: skyblue;
+    color:white;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+}
+
+p img{
+    background-color:skyblue ;
+}
+
+.kartina{
+    height: 
+    200px;
+    width: 
+    600px;
+}
+
+.sezon{
+    color:midnightblue;
+    text-align: center;
+}
+
+.prodykt{
+    text-align: center;
+    background-color: skyblue;
+}
+
+.fire{
+    text-align: center;
+}
